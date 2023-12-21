@@ -324,7 +324,7 @@ header{
 .about{
     display: flex;
     flex-wrap: wrap;
-    background: #ffffff;
+    background: #c16093;
     gap: 1.5rem;
 }
 
@@ -338,7 +338,7 @@ header{
 
 .about-text h2{
     font-size: 1.2rem;
-    color: var(--second-color);
+    color: white;
 }
 
 .about-text p{
